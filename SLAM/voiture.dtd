@@ -1,0 +1,7 @@
+<!ELEMENT voitures (voiture)*>
+<!ELEMENT voiture (couleur, nbKm, dateSortie)>
+<!ATTLIST voiture immatriculation CDATA #REQUIRED modele CDATA #IMPLIED>
+<!ELEMENT couleur (#PCDATA)>
+<!ELEMENT nbKm (#PCDATA)>
+<!ELEMENT dateSortie EMPTY>
+<!ATTLIST dateSortie jour CDATA #IMPLIED mois CDATA #IMPLIED annee CDATA #IMPLIED>

@@ -1,0 +1,11 @@
+<SOAP-ENV:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:clr="http://schemas.microsoft.com/clr/" SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+  <SOAP-ENV:Body>
+    <a1:Voiture id="ref-1" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/Serialisation.classes/Serialisation%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_x003C_Immatriculation_x003E_k__BackingField id="ref-2">268AB75</_x003C_Immatriculation_x003E_k__BackingField>
+      <_x003C_Modele_x003E_k__BackingField id="ref-3">Renault</_x003C_Modele_x003E_k__BackingField>
+      <_x003C_Couleur_x003E_k__BackingField id="ref-4">vert</_x003C_Couleur_x003E_k__BackingField>
+      <_x003C_NbKm_x003E_k__BackingField>15060</_x003C_NbKm_x003E_k__BackingField>
+      <_x003C_DateSortie_x003E_k__BackingField>2012-04-21T00:00:00.0000000+02:00</_x003C_DateSortie_x003E_k__BackingField>
+    </a1:Voiture>
+  </SOAP-ENV:Body>
+</SOAP-ENV:Envelope>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Voiture xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Immatriculation>121GFT93</Immatriculation>
+  <Modele>Twingo</Modele>
+  <Couleur>verte</Couleur>
+  <NbKm>1235</NbKm>
+  <DateSortie>2004-12-12T00:00:00</DateSortie>
+</Voiture>

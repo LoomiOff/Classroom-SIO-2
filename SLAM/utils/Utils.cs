@@ -1,7 +1,7 @@
 ﻿using System.Security.Cryptography;
 using System.Text;
 
-namespace SLAM
+namespace SLAM.utils
 {
     public static class Utils
     {
@@ -16,10 +16,11 @@ namespace SLAM
 
         #region Console
 
-        public static void WaitForInput()
+        public static void WaitForInput(string question = "Appuyer sur entrer pour continuer...")
         {
-            AskQuestion("Appuyer sur entrer pour continuer...");
+            AskQuestion(question);
             Console.ReadLine();
+            Console.Clear();
         }
 
         public static double ReadDouble(string message)
@@ -123,7 +124,6 @@ namespace SLAM
 
             int bottomPosition = Console.WindowHeight - 1;
 
-            // Clear line
             Console.SetCursorPosition(0, bottomPosition);
             Console.Write(new string(' ', Console.WindowWidth - 1));
 

@@ -1,4 +1,5 @@
-﻿using System.Drawing;
+﻿using SLAM.utils;
+using System.Drawing;
 
 namespace SLAM.programs.heritages
 {

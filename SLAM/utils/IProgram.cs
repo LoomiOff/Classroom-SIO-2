@@ -1,4 +1,4 @@
-﻿namespace SLAM
+﻿namespace SLAM.utils
 {
     public interface IProgram
     {

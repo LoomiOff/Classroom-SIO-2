@@ -1,4 +1,6 @@
-﻿namespace SLAM.programs.heritages
+﻿using SLAM.utils;
+
+namespace SLAM.programs.heritages
 {
     public class BuyableProduct : Product
     {

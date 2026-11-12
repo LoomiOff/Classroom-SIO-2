@@ -1,4 +1,5 @@
 ﻿using SLAM.programs.Collections;
+using SLAM.utils;
 
 namespace SLAM.programs.Tables
 {
@@ -6,6 +7,8 @@ namespace SLAM.programs.Tables
     {
         public void Execute()
         {
+
+
             string classeName = Utils.ReadString("Entrer un nom de classe.");
             int nbStudent = Utils.ReadInt("Entrer le nombre d'élèves.");
             Classe classe = new Classe(classeName, nbStudent);

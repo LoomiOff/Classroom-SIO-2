@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE voitures SYSTEM "voiture.dtd">
+<voitures>
+	<voiture immatriculation="1245TR93" modele="Laguna">
+		<couleur>blanche</couleur>
+		<nbKm>125000</nbKm>
+		<dateSortie jour="12" mois="12" annee="1996"/>
+	</voiture>
+	<voiture immatriculation="4578GH93" modele="Golf">
+		<couleur>bleue</couleur>
+		<nbKm>12450</nbKm>
+		<dateSortie mois="12" annee="2004"/>
+	</voiture>
+</voitures>

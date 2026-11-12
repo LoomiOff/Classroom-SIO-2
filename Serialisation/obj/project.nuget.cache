@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nk1NMwSpziM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Étudiant\\Documents\\GitHub\\Lounes\\Classroom-SIO-2\\Serialisation\\Serialisation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Étudiant\\.nuget\\packages\\soapformatter\\1.1.9\\soapformatter.1.1.9.nupkg.sha512"
+  ],
+  "logs": []
+}

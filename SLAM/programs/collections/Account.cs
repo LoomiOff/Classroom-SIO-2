@@ -1,4 +1,6 @@
-﻿namespace SLAM.programs.Collections
+﻿using SLAM.utils;
+
+namespace SLAM.programs.Collections
 {
     public class Account
     {
